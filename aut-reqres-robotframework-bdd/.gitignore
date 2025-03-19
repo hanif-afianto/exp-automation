@@ -1,0 +1,10 @@
+# test result
+results
+reports
+output
+
+# python environment
+venv
+
+# Misc
+.vscode
